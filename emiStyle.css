@@ -1,0 +1,21 @@
+.style{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 25px 25px 25px 25px;
+    width: fit-content;
+}
+.heading{
+    color: blue;
+    border-style: groove;
+}
+.subtitle{
+    color: blue;
+    font-style: italic;
+}
+.button{
+    background-color: blue;
+    color: white;
+}
+.result{
+    color: blue;
+}

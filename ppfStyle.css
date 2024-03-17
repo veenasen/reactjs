@@ -1,0 +1,28 @@
+.ppfStyle{
+    /* background-color: hsl(39, 100%, 50%); */
+    background-image: url("C:\Users\veena\OneDrive\Desktop\node js\assets\ppf.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 25px 65px 65px 65px;
+}
+.title{
+    color: red;
+    background-color: white;
+}
+.subtitle1{
+    background-color: red;
+    color: white;
+}
+.button1{
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
+.result1{
+    color: red;
+    font-weight: bolder;
+    background-color: white;
+}
